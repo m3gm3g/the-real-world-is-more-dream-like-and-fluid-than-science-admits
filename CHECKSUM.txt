@@ -1,0 +1,14 @@
+The "Real" World Is More Dream-Like Than Science Admits — Meg Schmidt
+Integrity record — SHA-256
+
+Recorded: 2026-09-30
+Git commit: 3ab9786
+
+fb4c016ea536a6ef6890232e90c0b2f55a0d0135113ce11a3556db5a867f6343  README.md
+f18ce3c8ad7264731aedf7bbfa23796bb5d557c97f5e58a7bf8f80fa6ac72bcd  index.html
+
+Verify locally with:
+  shasum -a 256 -c CHECKSUM.txt
+
+An independent copy of this record is archived off-repo for out-of-band
+verification in case this repository is ever altered.
